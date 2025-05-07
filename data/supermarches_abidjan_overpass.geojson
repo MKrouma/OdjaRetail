@@ -1,0 +1,5120 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-18T17:54:31Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/454168614",
+        "name": "Ofalé Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9543201,
+          5.350873
+        ]
+      },
+      "id": "node/454168614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768524277",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue des jardins",
+        "addr:suburb": "Deux Plateaux",
+        "name": "Cash Center 2 Plateaux",
+        "phone": "+225-22.41.39.06",
+        "shop": "supermarket",
+        "source": "connaissance des lieux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9902166,
+          5.3642023
+        ]
+      },
+      "id": "node/768524277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/773848973",
+        "name": "Cash Ivoire-Angré",
+        "opening_hours": "Mo-Su 08:30-19:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9854255,
+          5.4035448
+        ]
+      },
+      "id": "node/773848973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/773849148",
+        "name": "Cash Ivoire-8e Tranche",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9776642,
+          5.3997044
+        ]
+      },
+      "id": "node/773849148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775786925",
+        "name": "Supermarché CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9656346,
+          5.3577959
+        ]
+      },
+      "id": "node/775786925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775786935",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue I143",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9590136,
+          5.3617255
+        ]
+      },
+      "id": "node/775786935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1354693748",
+        "name": "AB Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9247906,
+          5.3579222
+        ]
+      },
+      "id": "node/1354693748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1987355300",
+        "name": "Chelsea Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9511557,
+          5.3291649
+        ]
+      },
+      "id": "node/1987355300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2381354982",
+        "name": "King Cash",
+        "operator": "CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0231626,
+          5.3672721
+        ]
+      },
+      "id": "node/2381354982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382127907",
+        "name": "Cash Ivoire",
+        "operator": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0161176,
+          5.3536435
+        ]
+      },
+      "id": "node/2382127907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388907671",
+        "name": "Cash Ivoire",
+        "operator": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0172616,
+          5.3529965
+        ]
+      },
+      "id": "node/2388907671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440400045",
+        "brand": "Leader Price",
+        "brand:wikidata": "Q2181426",
+        "name": "Leader Price",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.987609,
+          5.2999184
+        ]
+      },
+      "id": "node/2440400045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440425338",
+        "name": "Supermarché Prestige",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9826244,
+          5.2905329
+        ]
+      },
+      "id": "node/2440425338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440943168",
+        "name": "king cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0148402,
+          5.4209226
+        ]
+      },
+      "id": "node/2440943168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2444995825",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue P152 / Princesse",
+        "name": "King Cash",
+        "operator": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0725527,
+          5.3464945
+        ]
+      },
+      "id": "node/2444995825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130565",
+        "name": "Bonprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0619937,
+          5.3386523
+        ]
+      },
+      "id": "node/2446130565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130568",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0638321,
+          5.3526316
+        ]
+      },
+      "id": "node/2446130568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130596",
+        "name": "Superette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0591544,
+          5.3468215
+        ]
+      },
+      "id": "node/2446130596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2447227535",
+        "name": "Proxy Market",
+        "operator": "Proxy Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0171937,
+          5.3520435
+        ]
+      },
+      "id": "node/2447227535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2457703142",
+        "name": "MINI PRIX",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9746862,
+          5.3080519
+        ]
+      },
+      "id": "node/2457703142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2463107742",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Avenue Marie-Thérèse-Houphouët-Boigny",
+        "name": "L’Emmanuel",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0797406,
+          5.3424218
+        ]
+      },
+      "id": "node/2463107742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468882297",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue O13",
+        "name": "Eden Superette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.076664,
+          5.3272207
+        ]
+      },
+      "id": "node/2468882297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468908531",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue O13",
+        "name": "King Cash",
+        "operator": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0738839,
+          5.3529708
+        ]
+      },
+      "id": "node/2468908531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2469467860",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9638111,
+          5.3030995
+        ]
+      },
+      "id": "node/2469467860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2485648811",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9574164,
+          5.3014998
+        ]
+      },
+      "id": "node/2485648811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486264243",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue O13",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0773024,
+          5.3260388
+        ]
+      },
+      "id": "node/2486264243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2502549415",
+        "name": "Mini Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9762516,
+          5.3057314
+        ]
+      },
+      "id": "node/2502549415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2502552355",
+        "name": "Rahisam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9763094,
+          5.3051511
+        ]
+      },
+      "id": "node/2502552355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2502552702",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue F 109",
+        "name": "Nouvelle Superette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9759624,
+          5.3033278
+        ]
+      },
+      "id": "node/2502552702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513925147",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue des Jardins",
+        "addr:suburb": "Deux Plateaux",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Casino 2 plateaux",
+        "name:en": "Casino Market",
+        "shop": "supermarket",
+        "short_name": "Casino",
+        "source": "InnovAfrica.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9900586,
+          5.3580122
+        ]
+      },
+      "id": "node/2513925147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555328761",
+        "addr:city": "Biétry",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard de Marseille",
+        "name": "American",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.967218,
+          5.275858
+        ]
+      },
+      "id": "node/2555328761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573061721",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0122114,
+          5.4349874
+        ]
+      },
+      "id": "node/2573061721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2575162007",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue I123",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9603448,
+          5.3668977
+        ]
+      },
+      "id": "node/2575162007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2604138389",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue E 7",
+        "name": "Mini prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9772889,
+          5.3102652
+        ]
+      },
+      "id": "node/2604138389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2604140431",
+        "name": "Mini Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9723895,
+          5.3085865
+        ]
+      },
+      "id": "node/2604140431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684196800",
+        "name": "Mabrok",
+        "shop": "supermarket",
+        "source": "connaissance des lieux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1052843,
+          5.3229561
+        ]
+      },
+      "id": "node/2684196800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685468197",
+        "name": "Express-Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1043775,
+          5.3288291
+        ]
+      },
+      "id": "node/2685468197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685468205",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "name": "Supermarché Mansoura",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1043174,
+          5.3289341
+        ]
+      },
+      "id": "node/2685468205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685468256",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "name": "Supermarché Mafosa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1093336,
+          5.323619
+        ]
+      },
+      "id": "node/2685468256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2759455859",
+        "name": "Supérette de pailler",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0146867,
+          5.3760495
+        ]
+      },
+      "id": "node/2759455859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2761136576",
+        "name": "CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9464411,
+          5.3109366
+        ]
+      },
+      "id": "node/2761136576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2763917030",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9465413,
+          5.3030795
+        ]
+      },
+      "id": "node/2763917030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2796453925",
+        "name": "Super U",
+        "operator": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0736438,
+          5.3319195
+        ]
+      },
+      "id": "node/2796453925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844717526",
+        "name": "Mini Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9773011,
+          5.3103559
+        ]
+      },
+      "id": "node/2844717526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898893511",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "name": "Supermarché Kangaroo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9978806,
+          5.3695511
+        ]
+      },
+      "id": "node/2898893511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907851837",
+        "name": "Bonprix",
+        "shop": "supermarket",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9014469,
+          5.240273
+        ]
+      },
+      "id": "node/2907851837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2947844618",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9638835,
+          5.2596113
+        ]
+      },
+      "id": "node/2947844618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2960508953",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.887727,
+          5.3572934
+        ]
+      },
+      "id": "node/2960508953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2984186308",
+        "name": "Supermarché El vouze",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1033872,
+          5.3216167
+        ]
+      },
+      "id": "node/2984186308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2991180857",
+        "name": "Super U Abidjan Plateau",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0193134,
+          5.3207723
+        ]
+      },
+      "id": "node/2991180857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3017000450",
+        "fixme": "resurvey",
+        "name": "Bonprix",
+        "operator": "Prosuma",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0217942,
+          5.3524976
+        ]
+      },
+      "id": "node/3017000450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3053567487",
+        "name": "Bon Prix (Gros et Demi-Gros)",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7344961,
+          5.2082782
+        ]
+      },
+      "id": "node/3053567487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3053567488",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7341574,
+          5.2089111
+        ]
+      },
+      "id": "node/3053567488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3069209796",
+        "addr:city": "Grand-Bassam",
+        "name": "Super marché Bon Prix",
+        "operator": "Prosuma",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7362828,
+          5.2068679
+        ]
+      },
+      "id": "node/3069209796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3139543639",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9646006,
+          5.3807532
+        ]
+      },
+      "id": "node/3139543639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3141736220",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0088987,
+          5.4289554
+        ]
+      },
+      "id": "node/3141736220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156009089",
+        "addr:city": "Adjamé",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "name": "ADJ Rue Barre",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0262656,
+          5.3465925
+        ]
+      },
+      "id": "node/3156009089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3171962272",
+        "name": "Bon Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0198193,
+          5.4283438
+        ]
+      },
+      "id": "node/3171962272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3178546317",
+        "name": "Ivoire shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9909233,
+          5.4050927
+        ]
+      },
+      "id": "node/3178546317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3194527906",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0062767,
+          5.3933461
+        ]
+      },
+      "id": "node/3194527906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3281997581",
+        "name": "CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0061805,
+          5.4135135
+        ]
+      },
+      "id": "node/3281997581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282121163",
+        "name": "Akwaba Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.015746,
+          5.4124359
+        ]
+      },
+      "id": "node/3282121163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3288818763",
+        "name": "Jour de marché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0177914,
+          5.3229214
+        ]
+      },
+      "id": "node/3288818763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3296265292",
+        "name": "supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6172259,
+          5.2410454
+        ]
+      },
+      "id": "node/3296265292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3301100662",
+        "name": "SuperMarche Mi-Gros",
+        "shop": "supermarket",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9779451,
+          5.2863304
+        ]
+      },
+      "id": "node/3301100662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321109973",
+        "name": "HyperHayat",
+        "shop": "supermarket",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9872221,
+          5.2983417
+        ]
+      },
+      "id": "node/3321109973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3326668606",
+        "name": "Master Food",
+        "note": "Matiere premiere patisserie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.979833,
+          5.2938191
+        ]
+      },
+      "id": "node/3326668606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3345551526",
+        "name": "CDCI",
+        "operator": "Compagnie de Distribution de Côte d'Ivoire (CDCI)",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9836425,
+          5.4055444
+        ]
+      },
+      "id": "node/3345551526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3366916893",
+        "name": "Hyper U",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9995294,
+          5.3731946
+        ]
+      },
+      "id": "node/3366916893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393024195",
+        "name": "Casino Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9662414,
+          5.3559419
+        ]
+      },
+      "id": "node/3393024195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393271468",
+        "name": "Cash Center La Djibi",
+        "opening_hours": "Mo-Su 09:00-20:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9753887,
+          5.3861016
+        ]
+      },
+      "id": "node/3393271468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396921315",
+        "name": "Cash Ivoire U",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.968781,
+          5.2883944
+        ]
+      },
+      "id": "node/3396921315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396923646",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9691115,
+          5.2888118
+        ]
+      },
+      "id": "node/3396923646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400733935",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard de Marseille",
+        "name": "Cash Center Zone 4",
+        "opening_hours": "Mo-Sa 08:30-19:30; Su,PH 09:00-13:00, 15:00-18:30",
+        "operator": "Société Prosuma (Société Ivoirienne de Promotion de Supermarchés)",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9851585,
+          5.2870222
+        ]
+      },
+      "id": "node/3400733935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402317696",
+        "access": "permissive",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue du Canal",
+        "addr:suburb": "Zone 4c",
+        "name": "Diplomatique Internationale Free Shop (DIFS)",
+        "phone": "+225-21.25.90.90",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9816799,
+          5.2828854
+        ]
+      },
+      "id": "node/3402317696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441511697",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4203949,
+          5.2042009
+        ]
+      },
+      "id": "node/3441511697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442982782",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Pierre et Marie Curie",
+        "name": "Casino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9829465,
+          5.2949542
+        ]
+      },
+      "id": "node/3442982782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3563761548",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3766897,
+          5.3226384
+        ]
+      },
+      "id": "node/3563761548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3575322595",
+        "name": "Superette du Dokui",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0096509,
+          5.399394
+        ]
+      },
+      "id": "node/3575322595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3657970546",
+        "name": "Top Bugbet",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7450455,
+          5.2088333
+        ]
+      },
+      "id": "node/3657970546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3682498051",
+        "name": "Cash Saviely",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1055546,
+          5.3271257
+        ]
+      },
+      "id": "node/3682498051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703113625",
+        "name": "kingcash",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9709537,
+          5.2977262
+        ]
+      },
+      "id": "node/3703113625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710442834",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9220326,
+          5.3442112
+        ]
+      },
+      "id": "node/3710442834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720991296",
+        "name": "Bonheur 1",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7260532,
+          5.2219271
+        ]
+      },
+      "id": "node/3720991296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3750024305",
+        "name": "Superette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7438181,
+          5.212122
+        ]
+      },
+      "id": "node/3750024305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3767289532",
+        "name": "Super marché de l'Université",
+        "opening_hours": "sunrise-sunset",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9889271,
+          5.3416593
+        ]
+      },
+      "id": "node/3767289532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798489592",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0144695,
+          5.4271479
+        ]
+      },
+      "id": "node/3798489592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810933855",
+        "name": "Supermarché Guesch",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0893118,
+          5.3394075
+        ]
+      },
+      "id": "node/3810933855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813674270",
+        "name": "Super Marché Bonprix Niangon",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0894022,
+          5.3356615
+        ]
+      },
+      "id": "node/3813674270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3894153983",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue E 7",
+        "name": "Supermarché Citydia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9764231,
+          5.3055586
+        ]
+      },
+      "id": "node/3894153983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898408759",
+        "name": "Hypermarché Carrefour",
+        "opening_hours": "Mo-Fr 08:30-20:30;Sa 08:30-21:30; Su,PH 08:30-19:00",
+        "operator": "Carrefour Côte d'Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9915405,
+          5.3022613
+        ]
+      },
+      "id": "node/3898408759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3928801613",
+        "name": "Les noces de Canaan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7540357,
+          5.2110999
+        ]
+      },
+      "id": "node/3928801613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3930583808",
+        "name": "Super Marché Prix Abordable du Koweit",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0542247,
+          5.322049
+        ]
+      },
+      "id": "node/3930583808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3931437124",
+        "name": "Ivoire Boutique Superette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0583655,
+          5.323774
+        ]
+      },
+      "id": "node/3931437124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3950192780",
+        "name": "Le Bon Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0702979,
+          5.3557153
+        ]
+      },
+      "id": "node/3950192780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958258505",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Cité Caféier",
+        "addr:suburb": "Caféier",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1057938,
+          5.3255078
+        ]
+      },
+      "id": "node/3958258505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3993667005",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "fr:Carrefour Market",
+        "name": "Carrefour Market",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9761273,
+          5.280899
+        ]
+      },
+      "id": "node/3993667005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002514239",
+        "name": "King Cash",
+        "shop": "supermarket",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0799378,
+          5.3424851
+        ]
+      },
+      "id": "node/4002514239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002541742",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue P20",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0738361,
+          5.3398417
+        ]
+      },
+      "id": "node/4002541742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002541743",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue P20",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0737891,
+          5.3392568
+        ]
+      },
+      "id": "node/4002541743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013672696",
+        "name": "Magasin CDCI Gros",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.014749,
+          5.3065279
+        ]
+      },
+      "id": "node/4013672696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107240793",
+        "addr:street": "Boulevard de Marseille",
+        "name": "La Maisonnée",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9757283,
+          5.2728479
+        ]
+      },
+      "id": "node/4107240793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107248790",
+        "name": "Supermarché Bon Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.977861,
+          5.2743389
+        ]
+      },
+      "id": "node/4107248790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4185710090",
+        "name": "marcé diekona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0197946,
+          5.3229206
+        ]
+      },
+      "id": "node/4185710090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284169890",
+        "name": "So coco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9990144,
+          5.3728026
+        ]
+      },
+      "id": "node/4284169890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314450240",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0615056,
+          5.3189881
+        ]
+      },
+      "id": "node/4314450240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353166393",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0113877,
+          5.3035445
+        ]
+      },
+      "id": "node/4353166393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362577089",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0553402,
+          5.3318135
+        ]
+      },
+      "id": "node/4362577089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4381307101",
+        "name": "Indian souk",
+        "name:en": "Indian super market",
+        "name:fr": "Indian souk",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9930694,
+          5.3081325
+        ]
+      },
+      "id": "node/4381307101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384525613",
+        "name": "Socoprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.999758,
+          5.2969766
+        ]
+      },
+      "id": "node/4384525613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404072086",
+        "name": "Cash Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9836611,
+          5.4038283
+        ]
+      },
+      "id": "node/4404072086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411568052",
+        "name": "Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9809094,
+          5.4132153
+        ]
+      },
+      "id": "node/4411568052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411568299",
+        "name": "CDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0875542,
+          5.3469103
+        ]
+      },
+      "id": "node/4411568299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411568332",
+        "name": "Theo Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0128607,
+          5.3189105
+        ]
+      },
+      "id": "node/4411568332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413335398",
+        "name": "Jour de marché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9911485,
+          5.3987725
+        ]
+      },
+      "id": "node/4413335398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449517567",
+        "name": "Club Sococe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9993562,
+          5.2971197
+        ]
+      },
+      "id": "node/4449517567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455479590",
+        "name": "Socofrais",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9997881,
+          5.2977278
+        ]
+      },
+      "id": "node/4455479590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485222194",
+        "fixme": "resurvey",
+        "name": "Bonprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0214734,
+          5.3557254
+        ]
+      },
+      "id": "node/4485222194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485222198",
+        "name": "King Cash Avocatier",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0239172,
+          5.4297649
+        ]
+      },
+      "id": "node/4485222198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498437389",
+        "name": "Ideal market",
+        "name:fr": "Ideal market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7650895,
+          5.2110493
+        ]
+      },
+      "id": "node/4498437389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4505713791",
+        "name": "Sococé",
+        "name:fr": "Sococé",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9805508,
+          5.4128865
+        ]
+      },
+      "id": "node/4505713791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4505741789",
+        "name": "Citydia",
+        "name:fr": "Citydia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9913645,
+          5.401109
+        ]
+      },
+      "id": "node/4505741789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4745563523",
+        "name": "Chez Abou",
+        "name:fr": "Chez Abou",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026296,
+          5.3478029
+        ]
+      },
+      "id": "node/4745563523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4761998742",
+        "name": "Ganamet freres",
+        "name:fr": "Ganamet freres",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9882014,
+          5.3016957
+        ]
+      },
+      "id": "node/4761998742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774250721",
+        "addr:street": "Boulevard de Marseille",
+        "internet_access": "wlan",
+        "name": "Casino 01",
+        "name:fr": "Casino 01",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9774696,
+          5.2739797
+        ]
+      },
+      "id": "node/4774250721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4786526421",
+        "addr:city": "Abidjan",
+        "addr:street": "Boulevard de Marseille",
+        "internet_access": "wlan",
+        "name": "Casino Mandarine",
+        "name:fr": "Casino Mandarine",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9774775,
+          5.2739058
+        ]
+      },
+      "id": "node/4786526421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791708397",
+        "addr:city": "Cocody",
+        "addr:street": "Rue D33",
+        "name": "L'Abidjanaise",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9766127,
+          5.351125
+        ]
+      },
+      "id": "node/4791708397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791709295",
+        "addr:city": "Cocody",
+        "addr:street": "Rue D33",
+        "name": "Paradis des prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9762559,
+          5.3498698
+        ]
+      },
+      "id": "node/4791709295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791767082",
+        "opening_hours": "06:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0066333,
+          5.3992828
+        ]
+      },
+      "id": "node/4791767082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791795461",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.006306,
+          5.4011155
+        ]
+      },
+      "id": "node/4791795461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801940458",
+        "description": "Supermaché bien située au carrefour, point de repere pour le retrouver facilement dans la palmeraie.",
+        "name": "Quick Market Rosiers",
+        "opening_hours": "8:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.961665,
+          5.373855
+        ]
+      },
+      "id": "node/4801940458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836385428",
+        "name": "Bon prix",
+        "name:fr": "Bon prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0251698,
+          5.3531693
+        ]
+      },
+      "id": "node/4836385428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897560376",
+        "name": "Bon prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5943941,
+          5.271986
+        ]
+      },
+      "id": "node/4897560376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4971199523",
+        "name": "King cash",
+        "name:fr": "King cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0603166,
+          5.3288716
+        ]
+      },
+      "id": "node/4971199523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5025237821",
+        "note": "L'enseigne n'est plus Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9996117,
+          5.3441809
+        ]
+      },
+      "id": "node/5025237821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5037866224",
+        "name": "King cash cocoteraie",
+        "name:fr": "King cash cocoteraie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7779998,
+          5.2156296
+        ]
+      },
+      "id": "node/5037866224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075743630",
+        "alt_name": "Marché Avocatier",
+        "amenity": "marketplace",
+        "name": "Grand marché d’Avocatier",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0249134,
+          5.440527
+        ]
+      },
+      "id": "node/5075743630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111164522",
+        "addr:street": "Boulevard François Mitterrand",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "name": "Carrefour",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9338415,
+          5.3728391
+        ]
+      },
+      "id": "node/5111164522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5203033003",
+        "name": "Supeco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9875408,
+          5.2949628
+        ]
+      },
+      "id": "node/5203033003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255010167",
+        "brand": "Food Basics",
+        "brand:wikidata": "Q5465300",
+        "name": "Food Basics",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986435,
+          5.3881932
+        ]
+      },
+      "id": "node/5255010167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255033710",
+        "name": "Ted",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9876706,
+          5.3894074
+        ]
+      },
+      "id": "node/5255033710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5399979465",
+        "name": "CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0196389,
+          5.3026674
+        ]
+      },
+      "id": "node/5399979465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5502614222",
+        "name": "Casino",
+        "name:en": "Casino Mandarine Koumassi",
+        "name:fr": "Casino Mandarine Koumassi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9718132,
+          5.2876743
+        ]
+      },
+      "id": "node/5502614222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5515043895",
+        "name": "Supermarché Carrefour Faya",
+        "name:fr": "Ivoire Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9383225,
+          5.3699075
+        ]
+      },
+      "id": "node/5515043895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599203447",
+        "name": "Ivoire Center Abobo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0193773,
+          5.4255142
+        ]
+      },
+      "id": "node/5599203447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599203706",
+        "name": "Supermarché Interprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.011182,
+          5.3445037
+        ]
+      },
+      "id": "node/5599203706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599203708",
+        "name": "Bonprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.010074,
+          5.416883
+        ]
+      },
+      "id": "node/5599203708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5620097769",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0841646,
+          5.3355626
+        ]
+      },
+      "id": "node/5620097769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5661627538",
+        "name": "International Diplomatic Free Shop",
+        "note": "Position is raw guess.",
+        "shop": "supermarket",
+        "short_name": "IDFS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9943665,
+          5.3769815
+        ]
+      },
+      "id": "node/5661627538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924043141",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0849614,
+          5.3589398
+        ]
+      },
+      "id": "node/5924043141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924214396",
+        "name": "Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0708094,
+          5.3511513
+        ]
+      },
+      "id": "node/5924214396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924348116",
+        "name": "Superette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.079939,
+          5.3617371
+        ]
+      },
+      "id": "node/5924348116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924466562",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0670684,
+          5.3427464
+        ]
+      },
+      "id": "node/5924466562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924510433",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0777094,
+          5.347994
+        ]
+      },
+      "id": "node/5924510433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924535318",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0761799,
+          5.3479573
+        ]
+      },
+      "id": "node/5924535318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924557569",
+        "name": "Supermarché CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.079257,
+          5.3521661
+        ]
+      },
+      "id": "node/5924557569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924562693",
+        "name": "Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0800738,
+          5.3554034
+        ]
+      },
+      "id": "node/5924562693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924570319",
+        "name": "Supermarché bon pannier",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.067409,
+          5.351863
+        ]
+      },
+      "id": "node/5924570319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5926235577",
+        "name": "Hypermarché Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.083792,
+          5.3468758
+        ]
+      },
+      "id": "node/5926235577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5926282073",
+        "name": "Eco Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0729455,
+          5.340884
+        ]
+      },
+      "id": "node/5926282073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5927013840",
+        "name": "Magasin Vente de Riz",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0678838,
+          5.3521846
+        ]
+      },
+      "id": "node/5927013840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928600075",
+        "name": "Supermarché de la Station",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0636837,
+          5.3482826
+        ]
+      },
+      "id": "node/5928600075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928726280",
+        "name": "Supermarché Bon prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0942727,
+          5.3786136
+        ]
+      },
+      "id": "node/5928726280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928841982",
+        "name": "Supermarché la paix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0964359,
+          5.379358
+        ]
+      },
+      "id": "node/5928841982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5931189989",
+        "name": "Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0971011,
+          5.3862329
+        ]
+      },
+      "id": "node/5931189989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5934038685",
+        "name": "Supermarché Mansor",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0967873,
+          5.337006
+        ]
+      },
+      "id": "node/5934038685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5934409483",
+        "name": "Vente de gros et détails",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0968736,
+          5.3437706
+        ]
+      },
+      "id": "node/5934409483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5936634520",
+        "name": "La Rochela",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0557783,
+          5.3278225
+        ]
+      },
+      "id": "node/5936634520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5936678071",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0534414,
+          5.3330249
+        ]
+      },
+      "id": "node/5936678071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5936816510",
+        "name": "Moins Cher",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0945775,
+          5.3460719
+        ]
+      },
+      "id": "node/5936816510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5937206533",
+        "name": "CDCI",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0954267,
+          5.3458242
+        ]
+      },
+      "id": "node/5937206533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5937290812",
+        "name": "Supermarché très moins cher",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0989015,
+          5.3534559
+        ]
+      },
+      "id": "node/5937290812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5938872038",
+        "name": "Supermarché Nasr",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.095413,
+          5.3504586
+        ]
+      },
+      "id": "node/5938872038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939011194",
+        "name": "Supermarché NATIONAL",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0953939,
+          5.3506272
+        ]
+      },
+      "id": "node/5939011194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939248305",
+        "name": "Super marché NATIONAL",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0953959,
+          5.3506299
+        ]
+      },
+      "id": "node/5939248305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5952589282",
+        "fixme": "Position ± 100 m",
+        "name": "CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0696366,
+          5.3246965
+        ]
+      },
+      "id": "node/5952589282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960264099",
+        "name": "Citydia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9515691,
+          5.2978541
+        ]
+      },
+      "id": "node/5960264099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5961227688",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.968686,
+          5.3010319
+        ]
+      },
+      "id": "node/5961227688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964319473",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0534917,
+          5.4439414
+        ]
+      },
+      "id": "node/5964319473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5965706467",
+        "name": "Mini-Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9547211,
+          5.3000612
+        ]
+      },
+      "id": "node/5965706467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5970172783",
+        "name": "Super Marché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0543058,
+          5.4556264
+        ]
+      },
+      "id": "node/5970172783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5971962248",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9563978,
+          5.2937257
+        ]
+      },
+      "id": "node/5971962248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5991197964",
+        "name": "Casino Mandarine",
+        "note": "Position ± 50 m?",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0107739,
+          5.3447265
+        ]
+      },
+      "id": "node/5991197964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6040221044",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "fr:Carrefour Market",
+        "name": "Carrefour Market",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0748241,
+          5.3491391
+        ]
+      },
+      "id": "node/6040221044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6166314220",
+        "name": "CDCI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9540815,
+          5.3692686
+        ]
+      },
+      "id": "node/6166314220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6200674931",
+        "name": "King soleil market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9635862,
+          5.3662048
+        ]
+      },
+      "id": "node/6200674931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6277979699",
+        "name": "Djehf",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0130193,
+          5.3046223
+        ]
+      },
+      "id": "node/6277979699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6291551600",
+        "name": "Bon Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1096144,
+          5.323906
+        ]
+      },
+      "id": "node/6291551600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6383505289",
+        "name": "Supermarché BON PRIX",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3759608,
+          5.3231744
+        ]
+      },
+      "id": "node/6383505289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6435858359",
+        "name": "Ata market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10698,
+          5.3309511
+        ]
+      },
+      "id": "node/6435858359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6440287909",
+        "name": "Super U",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9826955,
+          5.2908266
+        ]
+      },
+      "id": "node/6440287909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466587587",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9435086,
+          5.3642224
+        ]
+      },
+      "id": "node/6466587587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6478631794",
+        "name": "Cash express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9454318,
+          5.3465042
+        ]
+      },
+      "id": "node/6478631794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482145892",
+        "name": "Cash ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0911122,
+          5.3468375
+        ]
+      },
+      "id": "node/6482145892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6661673654",
+        "name": "Free Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89244,
+          5.2426605
+        ]
+      },
+      "id": "node/6661673654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6881375079",
+        "name": "Socoprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9563477,
+          5.3624254
+        ]
+      },
+      "id": "node/6881375079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6990020133",
+        "name": "Supermarché Mon prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9290682,
+          5.3718018
+        ]
+      },
+      "id": "node/6990020133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7175317075",
+        "brand": "Supeco",
+        "contact:facebook": "supecoci",
+        "name": "Supeco Niangon",
+        "opening_hours": "Mo-Su 08:00-21:00; PH 08:00-21:00",
+        "phone": "+225 07 79 97 69 81;+225 07 79 97 68 81",
+        "shop": "supermarket",
+        "short_name": "Supeco",
+        "website": "https://www.supeco.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0876862,
+          5.3215227
+        ]
+      },
+      "id": "node/7175317075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7353221072",
+        "name": "Chez Attib's",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/02/24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0025067,
+          5.3345916
+        ]
+      },
+      "id": "node/7353221072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635737751",
+        "name": "SUPER MACHET",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9578971,
+          5.3628173
+        ]
+      },
+      "id": "node/7635737751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7770112185",
+        "name": "ATIPIQ MOBILIER",
+        "name:en": "ATYPIQ MOBILIER",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0009753,
+          5.3641624
+        ]
+      },
+      "id": "node/7770112185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779479886",
+        "name": "abobote marché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0009891,
+          5.41056
+        ]
+      },
+      "id": "node/7779479886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8100744174",
+        "name": "Socofrais",
+        "opening_hours": "Mo-Su 08:30-20:30; PH open",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0739674,
+          5.347971
+        ]
+      },
+      "id": "node/8100744174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8110854204",
+        "description": "gros/demi-gros",
+        "name": "Sococé",
+        "official_name": "Sococé Sogefiha",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0883698,
+          5.3354275
+        ]
+      },
+      "id": "node/8110854204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8299376295",
+        "name": "Ivoirmarket",
+        "phone": "+225 77 99 95 53",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0740986,
+          5.3300577
+        ]
+      },
+      "id": "node/8299376295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8478437832",
+        "brand": "Supeco",
+        "contact:facebook": "supecoci",
+        "name": "Supeco Terminus 47",
+        "opening_hours": "Mo-Su 08:00-21:00; PH 08:00-21:00",
+        "phone": "+225 07 08 32 30 34",
+        "shop": "supermarket",
+        "short_name": "Supeco",
+        "website": "https://www.supeco.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0838802,
+          5.3416776
+        ]
+      },
+      "id": "node/8478437832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8560869576",
+        "name": "Supermarché de la Rivera 2",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9766077,
+          5.352907
+        ]
+      },
+      "id": "node/8560869576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8563789420",
+        "name": "Supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9796745,
+          5.3670669
+        ]
+      },
+      "id": "node/8563789420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8568951387",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9912872,
+          5.385238
+        ]
+      },
+      "id": "node/8568951387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8576250121",
+        "name": "Le Bonheur",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9822469,
+          5.4134974
+        ]
+      },
+      "id": "node/8576250121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8577048533",
+        "name": "Prix Chocs Anador",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0098636,
+          5.4106128
+        ]
+      },
+      "id": "node/8577048533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8583925778",
+        "fid": "124",
+        "name": "Citydia",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-02-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9580243,
+          5.3719122
+        ]
+      },
+      "id": "node/8583925778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8583925846",
+        "fid": "145",
+        "name": "Dove",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9619101,
+          5.4022869
+        ]
+      },
+      "id": "node/8583925846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8583931415",
+        "fid": "214",
+        "name": "King Cash",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0128487,
+          5.4386247
+        ]
+      },
+      "id": "node/8583931415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584375848",
+        "fid": "5",
+        "name": "Cash Ivoire U",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-02-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0003011,
+          5.336836
+        ]
+      },
+      "id": "node/8584375848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584375853",
+        "branch": "M'Pouto",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "fid": "107",
+        "name": "Auchan",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-02-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9562886,
+          5.330352
+        ]
+      },
+      "id": "node/8584375853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584375854",
+        "fid": "127",
+        "name": "Supermarché",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-02-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9470363,
+          5.3281558
+        ]
+      },
+      "id": "node/8584375854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584450368",
+        "fid": "692",
+        "name": "Supermarché Sococe Abobo Samake",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0065322,
+          5.415352
+        ]
+      },
+      "id": "node/8584450368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584450594",
+        "fid": "788",
+        "name": "Supermarché",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0128476,
+          5.4225515
+        ]
+      },
+      "id": "node/8584450594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584452387",
+        "fid": "398",
+        "name": "Supermarché Du Bonheur",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9902983,
+          5.4058065
+        ]
+      },
+      "id": "node/8584452387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584458238",
+        "fid": "146",
+        "name": "Supermarché Ecoprice",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-02-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9775048,
+          5.3554119
+        ]
+      },
+      "id": "node/8584458238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584560438",
+        "fid": "626",
+        "name": "Supermarché Eburnie Shopping",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "06/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.020189,
+          5.4379572
+        ]
+      },
+      "id": "node/8584560438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8586918022",
+        "fid": "36",
+        "name": "Bon prix",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "25/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0018371,
+          5.3236216
+        ]
+      },
+      "id": "node/8586918022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8586931774",
+        "fid": "337",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "04/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9943733,
+          5.412158
+        ]
+      },
+      "id": "node/8586931774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8586959861",
+        "fid": "319",
+        "name": "SOCOCE",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "02/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0128886,
+          5.4525907
+        ]
+      },
+      "id": "node/8586959861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8587044406",
+        "fid": "236",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9619427,
+          5.3598111
+        ]
+      },
+      "id": "node/8587044406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8587072091",
+        "fid": "131",
+        "name": "Cash Express",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9373974,
+          5.3662746
+        ]
+      },
+      "id": "node/8587072091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8587115241",
+        "fid": "119",
+        "name": "L'Abidjanaise",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "24/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9370496,
+          5.3628668
+        ]
+      },
+      "id": "node/8587115241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596268693",
+        "fid": "234",
+        "name": "Cash Ivoire",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "24/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9701628,
+          5.3743742
+        ]
+      },
+      "id": "node/8596268693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596285776",
+        "fid": "272",
+        "name": "King Cash",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.980611,
+          5.4030148
+        ]
+      },
+      "id": "node/8596285776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596286600",
+        "fid": "190",
+        "name": "Supermarché C G",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "24/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9691201,
+          5.3651841
+        ]
+      },
+      "id": "node/8596286600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596291286",
+        "fid": "529",
+        "name": "Supermarché",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "03/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.006137,
+          5.4156669
+        ]
+      },
+      "id": "node/8596291286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8622092229",
+        "name": "Supermarché",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-03-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0148558,
+          5.4237717
+        ]
+      },
+      "id": "node/8622092229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8691885708",
+        "name": "sococe côte d'Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9674012,
+          5.2959213
+        ]
+      },
+      "id": "node/8691885708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8735262552",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0679602,
+          5.3404464
+        ]
+      },
+      "id": "node/8735262552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832621768",
+        "name": "Super Marché Vitryn",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021-02-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9354095,
+          5.330883
+        ]
+      },
+      "id": "node/8832621768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832680196",
+        "name": "Supermarché de la Paix",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0141212,
+          5.4479597
+        ]
+      },
+      "id": "node/8832680196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832680218",
+        "name": "Petit prix supermarché",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0206919,
+          5.4429251
+        ]
+      },
+      "id": "node/8832680218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8836601778",
+        "name": "Supermarché Continental",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "01/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985249,
+          5.4100588
+        ]
+      },
+      "id": "node/8836601778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8836731174",
+        "name": "Chic Market, vente de produits Bio",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9910967,
+          5.4166551
+        ]
+      },
+      "id": "node/8836731174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8837124467",
+        "name": "cdci",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.967309,
+          5.3770708
+        ]
+      },
+      "id": "node/8837124467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8838500280",
+        "name": "King Cash",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9910492,
+          5.404052
+        ]
+      },
+      "id": "node/8838500280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8841921623",
+        "fid": "1064",
+        "name": "Supermarché BONPLAN",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9888601,
+          5.4332102
+        ]
+      },
+      "id": "node/8841921623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842200154",
+        "name": "American store",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "09/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9548729,
+          5.350991
+        ]
+      },
+      "id": "node/8842200154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842843290",
+        "name": "Supermarché BONUS",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9599799,
+          5.3669672
+        ]
+      },
+      "id": "node/8842843290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8843066196",
+        "name": "Supermarché CASH-HINO",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9548662,
+          5.3765567
+        ]
+      },
+      "id": "node/8843066196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8843415699",
+        "name": "Supermarché CITYDIA",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/03/05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9578187,
+          5.3717907
+        ]
+      },
+      "id": "node/8843415699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8846760511",
+        "fid": "322",
+        "name": "Supermarché interprix",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/02/26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9598749,
+          5.36354
+        ]
+      },
+      "id": "node/8846760511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8846760621",
+        "fid": "208",
+        "name": "Supermarché bon prix",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/02/26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9367101,
+          5.3627706
+        ]
+      },
+      "id": "node/8846760621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8918383618",
+        "name": "Super marché BONUS",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/02/25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0062064,
+          5.4101515
+        ]
+      },
+      "id": "node/8918383618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8983153178",
+        "name": "Mina Center",
+        "project:opencities_abidjan": "yes",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:date": "2021/02/26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986472,
+          5.3923653
+        ]
+      },
+      "id": "node/8983153178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9285849959",
+        "name": "Cash Ivoire",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.956741,
+          5.3986323
+        ]
+      },
+      "id": "node/9285849959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9306967843",
+        "name": "Petite monnaie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0963607,
+          5.3188149
+        ]
+      },
+      "id": "node/9306967843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599271287",
+        "name": "Casino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9423884,
+          5.3330379
+        ]
+      },
+      "id": "node/9599271287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9748736781",
+        "name": "Bonprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.034294,
+          5.3505904
+        ]
+      },
+      "id": "node/9748736781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910024737",
+        "name": "Le dépanneur",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9760953,
+          5.4034772
+        ]
+      },
+      "id": "node/9910024737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910059296",
+        "name": "Éléphant blanc",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9791406,
+          5.403184
+        ]
+      },
+      "id": "node/9910059296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9915278117",
+        "addr:street": "Abraham",
+        "name": "marché d'Abraham",
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8858288,
+          5.2417101
+        ]
+      },
+      "id": "node/9915278117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917083417",
+        "name": "PDZ MAR 133",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9685665,
+          5.2753046
+        ]
+      },
+      "id": "node/9917083417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952748121",
+        "name": "Coco Market",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0909652,
+          5.3289373
+        ]
+      },
+      "id": "node/9952748121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225224181",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "name": "Auchan",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "shop": "supermarket",
+        "short_name": "Auchan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0592673,
+          5.3409162
+        ]
+      },
+      "id": "node/10225224181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235233717",
+        "name": "Supermarché BONPRIX",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0892607,
+          5.3355417
+        ]
+      },
+      "id": "node/10235233717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10259238528",
+        "name": "SANgel Yopougon",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0659704,
+          5.3572756
+        ]
+      },
+      "id": "node/10259238528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10601652606",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "name": "Auchan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9731244,
+          5.2872929
+        ]
+      },
+      "id": "node/10601652606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10856866246",
+        "addr:city": "Abidjan",
+        "addr:postcode": "225",
+        "addr:street": "Rue C23",
+        "branch": "Attoban",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "name": "Auchan",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "operator": "Auchan",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:notes": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9788082,
+          5.3621808
+        ]
+      },
+      "id": "node/10856866246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857010262",
+        "addr:city": "Abidjan",
+        "addr:postcode": "225",
+        "addr:street": "Rue C23",
+        "name": "SOCOCE Attoban",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:notes": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9794683,
+          5.3668213
+        ]
+      },
+      "id": "node/10857010262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10860850996",
+        "name": "Lescal Market",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.925755,
+          5.3891243
+        ]
+      },
+      "id": "node/10860850996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11097058005",
+        "name": "COCO MARKET ANANI",
+        "name:en": "COCO MARKET-ANANI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8733864,
+          5.2377702
+        ]
+      },
+      "id": "node/11097058005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11135846842",
+        "name": "Sococe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.751188,
+          5.2095557
+        ]
+      },
+      "id": "node/11135846842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11154339152",
+        "name": "Supermarché Prix Cassé",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3805385,
+          5.3221471
+        ]
+      },
+      "id": "node/11154339152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183402278",
+        "name": "Sococe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0528837,
+          5.5036396
+        ]
+      },
+      "id": "node/11183402278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11195624102",
+        "name": "Bon Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0511559,
+          5.4979221
+        ]
+      },
+      "id": "node/11195624102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11195813836",
+        "name": "King Cash",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0049946,
+          5.4105125
+        ]
+      },
+      "id": "node/11195813836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11195832440",
+        "name": "Supeco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9980507,
+          5.4113478
+        ]
+      },
+      "id": "node/11195832440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11208009375",
+        "name": "Super Prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0065965,
+          5.3682999
+        ]
+      },
+      "id": "node/11208009375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217416420",
+        "name": "Super Tai",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9879808,
+          5.3828365
+        ]
+      },
+      "id": "node/11217416420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11243431651",
+        "name": "Supermarché 21em",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0238128,
+          5.4202536
+        ]
+      },
+      "id": "node/11243431651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11262735970",
+        "name": "Bon prix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9711607,
+          5.3943438
+        ]
+      },
+      "id": "node/11262735970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11267076420",
+        "name": "Didy Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0689493,
+          5.4429714
+        ]
+      },
+      "id": "node/11267076420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11401135858",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "name": "Auchan",
+        "opening_hours": "Mo-Su 07:00-24:00; PH unknown",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9915928,
+          5.3908035
+        ]
+      },
+      "id": "node/11401135858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11497695110",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "full_name": "My Auchan Koumassi",
+        "name": "My Auchan Koumassi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9700058,
+          5.293107
+        ]
+      },
+      "id": "node/11497695110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11497695112",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "full_name": "My Auchan Koumassi 2",
+        "name": "My Auchan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9571023,
+          5.298555
+        ]
+      },
+      "id": "node/11497695112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584968334",
+        "name": "A3M-CI",
+        "phone": "+22559525725",
+        "shop": "supermarket",
+        "survey:date": "2024-02-04",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9139829,
+          5.3874992
+        ]
+      },
+      "id": "node/11584968334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11670590252",
+        "name": "Shado Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3769573,
+          5.3225467
+        ]
+      },
+      "id": "node/11670590252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11670603178",
+        "name": "Sococe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3745564,
+          5.3235559
+        ]
+      },
+      "id": "node/11670603178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11686368765",
+        "name": "Bonprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8755296,
+          5.3506106
+        ]
+      },
+      "id": "node/11686368765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11686368766",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "name": "Auchan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8758592,
+          5.3515572
+        ]
+      },
+      "id": "node/11686368766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11764379470",
+        "name": "CARTE SD Adjamé",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0240726,
+          5.3538191
+        ]
+      },
+      "id": "node/11764379470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11793790569",
+        "name": "Supermarket Café Brazil",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9742609,
+          5.285078
+        ]
+      },
+      "id": "node/11793790569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11818396370",
+        "name": "La supérette",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9726392,
+          5.2783097
+        ]
+      },
+      "id": "node/11818396370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11847266134",
+        "air_conditioning": "yes",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "name": "Carrefour Market",
+        "opening_hours": "24/7",
+        "operator": "Carrefour",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9562075,
+          5.399535
+        ]
+      },
+      "id": "node/11847266134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11928158382",
+        "name": "Mini Market Chez Paco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0113529,
+          5.3442782
+        ]
+      },
+      "id": "node/11928158382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12040301845",
+        "name": "Supermarché Chinoise",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9904004,
+          5.3553284
+        ]
+      },
+      "id": "node/12040301845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12048430556",
+        "name": "Supermarché Chinoise",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9900483,
+          5.3689612
+        ]
+      },
+      "id": "node/12048430556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12455939401",
+        "name": "marché de vente de machine",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9697684,
+          5.2954897
+        ]
+      },
+      "id": "node/12455939401"
+    }
+  ]
+}

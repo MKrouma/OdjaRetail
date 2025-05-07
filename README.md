@@ -11,3 +11,12 @@ OdjaRetail est une plateforme de collecte et d'analyse des supermarchés à Abid
 - Trouver un SM par son nom;
 - Navigation vers un supermarché;
 - Filtrer selon ses préférences.
+
+
+## Workflow
+- Collecte de données (ok);
+- Nettoyage de données (ok);
+- Conception de la base de données;
+- Implémentation de la BD;
+- Développement du backend (logique);
+- Développement du frontend (présentation).
